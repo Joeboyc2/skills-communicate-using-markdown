@@ -7,3 +7,8 @@
 ```
 $git: { "foo":"bar"}
 ```
+
+- [ ] complete step 1
+- [ ] complete step 2
+- [ ] complete step 3
+- [ ] complete step 4
